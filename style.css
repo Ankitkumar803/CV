@@ -1,0 +1,23 @@
+body {
+  background-color: #faf3e0 ;
+}
+img{
+  height: 120px;
+}
+hr{
+
+border-color: grey;
+border-style: dotted;
+border-width: 0;
+border-top-width: 8px;
+width: 10%;
+}
+h1{
+text-shadow: 1px 1px 4px #206a5d;
+}
+h1:hover{
+text-shadow: 1px 1px 4px #0061a8;
+}
+h3:hover{
+  text-shadow: 1px 1px 3px #c0e218;
+}
